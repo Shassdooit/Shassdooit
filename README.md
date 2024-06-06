@@ -10,14 +10,7 @@
 
 ---
 
-### :man_technologist: Обо мне :
 
-Здравствуйте!
-Я веб-разработчик, умею верстать на html, css, javascript. Моя вёрстка адаптивная, семантическая и кроссбраузерная. Есть опыт вёрстки email писем.
-<br>Учусь,&nbsp;развиваю навыки, не боюсь трудностей,&nbsp;легко вливаюсь в коллектив,&nbsp;командный игрок,&nbsp;ответственен,&nbsp;не пропадаю со связи.
-
-
----
 
 <img src="https://media.giphy.com/media/vLlpbDafjgHystuJ0a/giphy.gif" width="150"/>  **Мой стек технологий**:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;&nbsp;
@@ -28,6 +21,11 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/gitlab/gitlab-plain-wordmark.svg" title="Gitlab" alt="Gitlab" width="40" height="40"/>&nbsp;&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" title="SASS" alt="SASS" width="40" height="40"/>&nbsp;&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/gulp/gulp-plain.svg" title="Gulp" alt="Gulp" width="40" height="40"/>&nbsp;&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-plain.svg" title="Gulp" alt="Gulp" width="40" height="40"/>&nbsp;&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-original-wordmark.svg" title="Gulp" alt="Gulp" width="40" height="40"/>&nbsp;&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="Gulp" alt="Gulp" width="40" height="40"/>&nbsp;&nbsp;
+  
+
 
 
 ---
